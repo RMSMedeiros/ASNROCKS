@@ -1,1 +1,5 @@
 Exercício 01
+
+commit 01 - estado inicial
+
+commit 02 - primeira alteração
